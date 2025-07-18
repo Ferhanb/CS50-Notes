@@ -1,1 +1,1 @@
-# CS50-Week-1-2
+# CS50-Notes
